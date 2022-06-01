@@ -1,0 +1,3 @@
+gdb					//abrir gdb
+target remote localhost:1234		//conectarse al qemu
+c					//continue
